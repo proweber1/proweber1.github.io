@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+html, body {
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    display: block;
+    background: url("../images/header.jpg") no-repeat center center;
+    background-size: cover;
+    overflow: auto;
+    color: #fff;
+}
+
+.shadow-on-back {
+    background: rgba(0, 0, 0, .7);
+    padding: 50px 0;
+}
